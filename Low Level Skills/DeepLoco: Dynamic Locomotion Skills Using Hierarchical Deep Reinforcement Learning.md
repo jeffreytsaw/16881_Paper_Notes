@@ -42,6 +42,6 @@ LLC with specific styles can be swapped in for the nominal LLC that was used to 
 
 Since HLC output is LLC goal (footplan), HLC may exploit footplans for which the LLC had not been trained. Simply, HLC may demand unattainable footsteps from the LLC. During training, however, HLC will learn to avoid unattainable footplans as a result of failure from these outputs to LLC (i.e falling).
 
-Paper: [DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning][https://www.cs.ubc.ca/~van/papers/2017-TOG-deepLoco/2017-TOG-deepLoco.pdf]
+Paper: [DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning](https://www.cs.ubc.ca/~van/papers/2017-TOG-deepLoco/2017-TOG-deepLoco.pdf)
 
 [1]: https://hadovanhasselt.files.wordpress.com/2015/12/reinforcement_learning_in_continuous_action_spaces.pdf
