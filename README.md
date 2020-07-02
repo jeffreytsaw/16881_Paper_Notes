@@ -5,12 +5,15 @@ This repo contains notes for the papers that are apart of the course [16-881 Dee
 Contents:
 -[Low Level Skills](#low-level-skills)
   -[Bipedal Locomotion](#bipedal-locomotion)
+  -[Robot Acrobatics](#robot-acrobatics)
   
 
 # Low Level Skills
 
 ## Bipedal Locomotion
 Hello!
+
+## Robot Acrobatics
 
 
 
