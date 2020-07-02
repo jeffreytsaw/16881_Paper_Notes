@@ -9,7 +9,7 @@ Contents:
 # Low Level Skills
 
 ## Bipedal Locomotion
-- DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning
+- [DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning](https://github.com/jeffreytsaw/16881_Paper_Notes/blob/master/Low%20Level%20Skills/DeepLoco:%20Dynamic%20Locomotion%20Skills%20Using%20Hierarchical%20Deep%20Reinforcement%20Learning.md)
 ## Robot Acrobatics
 
 
