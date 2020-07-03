@@ -8,7 +8,7 @@ Repeated pressuring of air and exhausting in lower chamber of leg piston causes 
 
 During flight, controller chooses forward position for foot appropriate to machine's travel. During stance controller generates torques at hip to maintain upright attitude.
 
-3D algorithms decompose into same 3 parts as 2D algorithsm. Running velocity control is done by positioning the foot w.r.t center of gravity during the flight phase. Attitude control is done by controlling hip torque during stance when foot is held in place by friction. Hopping height control is done by controllilng the thrust deilvered by the leg on each hop.
+3D algorithms decompose into same 3 parts as 2D algorithms. Running velocity control is done by positioning the foot w.r.t center of gravity during the flight phase. Attitude control is done by controlling hip torque during stance when foot is held in place by friction. Hopping height control is done by controllilng the thrust deilvered by the leg on each hop.
 
 Forward velocity control is dependent on 2 factors. One factor finds the foot position that would result in no acceleartion of the body. The other factor calculates dispalcement of foot from zero-acceleartion foot position (factor 1) that will generate the desired acceleration. Acceleration is required as it allows changes to running vellocity, and helps stabillilze forwarad velocity against errors. 2 factors combine to give next foot position.
 
@@ -22,6 +22,6 @@ Body attitude is adjusted during stances by torque servos as angular momentum is
 
 Hopping height is regulated by applying fixed thrust to offset energy loss for each hopping cycle
 
-Position control was achieved by using a controller to transfrom position errors and current velocity into desired velocity. This controller gives desired velocity and is a function of diagonal postiion and velocity gain matrices, position error current velocity. This desired velocity is clipped to a maximum value.
+Position control was achieved by using a controller to transfrom position errors and current velocity into desired velocity. This controller gives desired velocity and is a function of diagonal postiion and velocity gain matrices, position error current velocity. This desired velocity is clipped to a maximum value. Position can be found by integrating forward velocity estimate.
 
 Paper: [Experiments in Balance with a 3D One-Legged Hopping Machine](https://journals.sagepub.com/doi/pdf/10.1177/027836498400300207)
