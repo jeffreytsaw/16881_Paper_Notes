@@ -6,7 +6,7 @@ Contents:
 - [Low Level Skills](#low-level-skills)
   - [Bipedal Locomotion](#bipedal-locomotion)
   - [Robot Acrobatics](#robot-acrobatics)
-  - [Flight / Aeriaal Robotics](#flight-/-aerial-robotics)
+  - [Flight / Aerial Robotics](#flight-aerial-robotics)
   - [Drifting](#drifting)
   - [Throwing / Catching](#throwing-/-catching)
   - [Grasping](#grasping)
