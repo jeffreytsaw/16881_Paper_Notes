@@ -8,7 +8,7 @@ Contents:
   - [Robot Acrobatics](#robot-acrobatics)
   - [Flight / Aerial Robotics](#flight--aerial-robotics)
   - [Drifting](#drifting)
-  - [Throwing / Catching](#throwing-/-catching)
+  - [Throwing / Catching](#throwing--catching)
   - [Grasping](#grasping)
   - [In-hand Manipulation](#in-hand-manipulation)
   - [Sim2Real Transfer](#sim2real-transfer)
@@ -19,7 +19,7 @@ Contents:
   - [Safety](#safety)
   - [Multi-object Manipulation](#multi-object-manipulation)
   - [Tool Use](#tool-use)
-  - [Long-horizon Tasks / Reasoning / Planning](#long-horizon-tasks-/-reasoning-/-planning)
+  - [Long-horizon Tasks / Reasoning / Planning](#long-horizon-tasks--reasoning--planning)
 
 # Low Level Skills
 
