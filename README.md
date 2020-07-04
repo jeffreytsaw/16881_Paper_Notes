@@ -28,7 +28,7 @@ Contents:
 - [Experiments in Balance with a 3D One-Legged Hopping Machine (R)](https://github.com/jeffreytsaw/16881_Paper_Notes/blob/master/Low%20Level%20Skills/Experiments%20in%20Balance%20with%20a%203D%20One-Legged%20Hopping%20Machine.md)
 
 ## Robot Acrobatics
-- Control of a Biped Somersault in 3D 
+- [Control of a Biped Somersault in 3D (R)](https://github.com/jeffreytsaw/16881_Paper_Notes/blob/master/Low%20Level%20Skills/Control%20of%20a%20Biped%20Somersault%20in%203D.md) 
 - SFV: Reinforcement Learning of Physical Skills from Videos
 
 ## Flight / Aerial Robotics
