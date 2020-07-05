@@ -17,3 +17,5 @@ Controller to control moment of inertia (i.e leg lengths) to achieve required pi
 At a high level, each control cycle first measures state, estimates f, computes the change in leg leg length (a function of f and derivative of f w.r.t leg length), estimates next value of f using updated leg length, if sufficiently accurate, sets leg length to final value. 
 
 At liftoff maximum hip torque and leg thrust is applied, so maximum pitch rotation rate is measured at initial takeoff. Tuck servo then alters pitch rate and leg length to ensure desired body attitude is achieved on landing.
+
+Paper: [Control of a Biped Somersault in 3D](https://ieeexplore-ieee-org.proxy.library.cmu.edu/stamp/stamp.jsp?tp=&arnumber=587396)
