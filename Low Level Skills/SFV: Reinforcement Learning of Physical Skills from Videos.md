@@ -28,7 +28,7 @@ Initial state distribution is important as it exposes character to promising sta
 
 Adaptive state initialisation is a multi-agent RL problem, one agent proposes starting state, the other controls the policy from that starting state onwards. The multi-agent objective is the expected discount reward across all trajectories specified by initial state agent. More specifically it is the integral over all trajectories of probability of starting in the state specified by the initial state agent, following a trajectory specified by policy agent multiplied by the discounted reward during the trajectory. The gradients can be used to train both agents (multi-agent objective, i.e gradient w.r.t each agent parameters). See Algorithm below.
 
-![Training process with ASI for Motion Imitation](Low Level Skills/PPO with ASI.jpg)
+![Training process with ASI for Motion Imitation](PPO with ASI.jpg)
 
 Reward encourages character to imitate reference motion. It encourages matching of joint rotations, joint velocities, end-effector (i.e hands and feet) positions, and center of mass locations.
 
