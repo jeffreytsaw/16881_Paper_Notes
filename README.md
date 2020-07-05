@@ -29,7 +29,7 @@ Contents:
 
 ## Robot Acrobatics
 - [Control of a Biped Somersault in 3D (R)](https://github.com/jeffreytsaw/16881_Paper_Notes/blob/master/Low%20Level%20Skills/Control%20of%20a%20Biped%20Somersault%20in%203D.md) 
-- SFV: Reinforcement Learning of Physical Skills from Videos
+- [SFV: Reinforcement Learning of Physical Skills from Videos](https://github.com/jeffreytsaw/16881_Paper_Notes/blob/master/Low%20Level%20Skills/SFV:%20Reinforcement%20Learning%20of%20Physical%20Skills%20from%20Videos.md)
 
 ## Flight / Aerial Robotics
 - Beauty and the Beast: Optimal Methods Meet Learning for Drone Racing
