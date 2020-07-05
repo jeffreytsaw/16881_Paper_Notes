@@ -34,7 +34,7 @@ Reward encourages character to imitate reference motion. It encourages matching 
 
 Motion completion is tested by starting the character in a new pose and simulating the policy learned for a motion with starting pose closest to the new pose.
 
-State representation is identical to that in the [DeepLoco Paper]((https://github.com/jeffreytsaw/16881_Paper_Notes/blob/master/Low%20Level%20Skills/DeepLoco:%20Dynamic%20Locomotion%20Skills%20Using%20Hierarchical%20Deep%20Reinforcement%20Learning.md)
+State representation is identical to that in the [DeepLoco Paper](https://github.com/jeffreytsaw/16881_Paper_Notes/blob/master/Low%20Level%20Skills/DeepLoco:%20Dynamic%20Locomotion%20Skills%20Using%20Hierarchical%20Deep%20Reinforcement%20Learning.md)
 
 Actions are target rotations for PD controllers
 
