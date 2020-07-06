@@ -18,4 +18,4 @@ At a high level, each control cycle first measures state, estimates f, computes 
 
 At liftoff maximum hip torque and leg thrust is applied, so maximum pitch rotation rate is measured at initial takeoff. Tuck servo then alters pitch rate and leg length to ensure desired body attitude is achieved on landing.
 
-Paper: [Control of a Biped Somersault in 3D](https://ieeexplore-ieee-org.proxy.library.cmu.edu/stamp/stamp.jsp?tp=&arnumber=587396)
+Paper: [Control of a Biped Somersault in 3D](https://ieeexplore-ieee-org.proxy.library.cmu.edu/stamp/stamp.jsp?tp=&arnumber=587396). I liked this one it was interesting to see control before the advent of deep learning techniques. Controlller for complex motion with a prolonged ballistic action turned out to be relatively simple math-wise, I'm sure implementation wise it's still faairly complicated
