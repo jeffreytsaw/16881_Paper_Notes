@@ -24,4 +24,4 @@ Hopping height is regulated by applying fixed thrust to offset energy loss for e
 
 Position control was achieved by using a controller to transfrom position errors and current velocity into desired velocity. This controller gives desired velocity and is a function of diagonal postiion and velocity gain matrices, position error current velocity. This desired velocity is clipped to a maximum value. Position can be found by integrating forward velocity estimate.
 
-Paper: [Experiments in Balance with a 3D One-Legged Hopping Machine](https://journals.sagepub.com/doi/pdf/10.1177/027836498400300207)
+Paper: [Experiments in Balance with a 3D One-Legged Hopping Machine](https://journals.sagepub.com/doi/pdf/10.1177/027836498400300207). Paper was interesting to see how balance is even possible for a one legged robot. Apparently COM calculations are fast so everything can be done while in flight. Most of the complexity came with the forwaard velocity controller. Interesting to see how a traditional robotics approach differs from modern deep learning ones.
