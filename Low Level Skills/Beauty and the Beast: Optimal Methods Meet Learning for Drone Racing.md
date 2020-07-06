@@ -18,7 +18,7 @@ Measurement assignemnt takes the perception gate estimation (gate w.r.t body) an
 
 Filter transforms perception estimates to cartesian coordinates and expresses variance as a jacobian, and applies the EKF measurement to the traansformed meaan and variance to ge an updated map of the gates, summarized below.
 
-![]()
+![EKF filter](EKF_filter.jpg)
 
 Control and planning is done in 2 modules. One setting low-level waypoints and generating desired path, the other plans feasible control trajectories using predictive control.
 
@@ -26,7 +26,7 @@ Control and planning is done in 2 modules. One setting low-level waypoints and g
 
 Model preditive control sollves a quadratic optimization problem.
 
-![]()
+![Quadratic Optimisation for Model Predictive Control](Quadratic_optimization.jpg)
 
 States x aand u aare weighted by positive diagonal matrices Q, R, and optimised to reference directions xr, ur.
 
