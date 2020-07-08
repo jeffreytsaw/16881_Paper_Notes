@@ -33,7 +33,7 @@ Contents:
 
 ## Flight / Aerial Robotics
 - [Beauty and the Beast: Optimal Methods Meet Learning for Drone Racing (R)](https://github.com/jeffreytsaw/16881_Paper_Notes/blob/master/Low%20Level%20Skills/Beauty%20and%20the%20Beast:%20Optimal%20Methods%20Meet%20Learning%20for%20Drone%20Racing.md)
-- [Deep Drone Racing: From Simulation to Reality with Domain Randomization (D)] (https://github.com/jeffreytsaw/16881_Paper_Notes/blob/master/Low%20Level%20Skills/Deep%20Drone%20Racing:%20from%20Simulation%20to%20Reality%20with%20Domain%20Randomization.md)
+- [Deep Drone Racing: From Simulation to Reality with Domain Randomization (D)](https://github.com/jeffreytsaw/16881_Paper_Notes/blob/master/Low%20Level%20Skills/Deep%20Drone%20Racing:%20from%20Simulation%20to%20Reality%20with%20Domain%20Randomization.md)
 
 ## Drifting
 - Autonomous Drifting using Simulation-Aided Reinforcement Learning
